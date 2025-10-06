@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<joystick configversion="19" appversion="3.5.1">
+    <!--The SDL name for a joystick is included for informational purposes only.-->
+    <sdlname>Glorious GMMK V2 65 ANSI System Control</sdlname>
+    <!--The Unique ID for a joystick is included for informational purposes only.-->
+    <uniqueID>0300589f0f32000045500000110100001281520549</uniqueID>
+    <sets/>
+</joystick>
